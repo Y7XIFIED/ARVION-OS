@@ -32,61 +32,15 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ## 📂 Project Structure
 ```text
 arvion/
-├── .gitattributes
-├── .gitignore
-├── .vercel
-│   ├── project.json
-│   └── README.txt
-├── AGENTS.md
-├── Arvion OS.mp4
-├── ARVION.md
-├── arvion_manifest.json
-├── assets
-│   ├── footer.png
-│   └── preview-card.svg
-├── dist
-│   ├── assets
-│   │   ├── index-CLdrGmB1.css
-│   │   ├── index-D93TFcb-.js
-│   │   ├── TerminaTest-Bold-C5cReKlJ.otf
-│   │   ├── TerminaTest-Medium-C94JgEIN.otf
-│   │   └── TerminaTest-Regular-DWAQ7vN_.otf
-│   └── index.html
-├── font
-│   └── termina-test
-│       ├── TerminaTest-Black.otf
-│       ├── TerminaTest-Bold.otf
-│       ├── TerminaTest-Demi.otf
-│       ├── TerminaTest-ExtraLight.otf
-│       ├── TerminaTest-Heavy.otf
-│       ├── TerminaTest-Light.otf
-│       ├── TerminaTest-Medium.otf
-│       ├── TerminaTest-Regular.otf
-│       └── TerminaTest-Thin.otf
-├── index.html
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── README.md
-├── src
-│   ├── App.tsx
-│   ├── components
-│   │   ├── BootSequence.tsx
-│   │   ├── CustomCursor.tsx
-│   │   ├── Desktop.tsx
-│   │   ├── DesktopApps.tsx
-│   │   ├── EncryptionText.tsx
-│   │   ├── GlitchText.tsx
-│   │   ├── MatrixRain.tsx
-│   │   ├── Terminal.tsx
-│   │   └── Window.tsx
-│   ├── index.css
-│   ├── main.tsx
-│   ├── pages
-│   │   └── NotFound.tsx
-│   └── vite-env.d.ts
-├── tailwind.config.js
-└── vite.config.ts
+├── .vercel/
+├── assets/
+├── dist/
+│   └── assets/
+├── font/
+│   └── termina-test/
+└── src/
+    ├── components/
+    └── pages/
 ```
 
 ## 💻 Tech Stack
