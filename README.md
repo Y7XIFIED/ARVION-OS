@@ -32,50 +32,11 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ## 📂 Project Structure
 ```text
 arvion/
-├── .vercel
-│   ├── project.json
-│   └── README.txt
-├── assets
-│   ├── footer.png
-│   └── preview-card.svg
-├── dist
-│   ├── assets
-│   │   ├── index-CLdrGmB1.css
-│   │   ├── index-D93TFcb-.js
-│   │   ├── TerminaTest-Bold-C5cReKlJ.otf
-│   │   ├── TerminaTest-Medium-C94JgEIN.otf
-│   │   └── TerminaTest-Regular-DWAQ7vN_.otf
-│   └── index.html
-├── font
-│   └── termina-test
-│       ├── TerminaTest-Black.otf
-│       ├── TerminaTest-Bold.otf
-│       ├── TerminaTest-Demi.otf
-│       ├── TerminaTest-ExtraLight.otf
-│       ├── TerminaTest-Heavy.otf
-│       ├── TerminaTest-Light.otf
-│       ├── TerminaTest-Medium.otf
-│       ├── TerminaTest-Regular.otf
-│       └── TerminaTest-Thin.otf
-├── src
-│   ├── components
-│   │   ├── BootSequence.tsx
-│   │   ├── CustomCursor.tsx
-│   │   ├── Desktop.tsx
-│   │   ├── DesktopApps.tsx
-│   │   ├── EncryptionText.tsx
-│   │   ├── GlitchText.tsx
-│   │   ├── MatrixRain.tsx
-│   │   ├── Terminal.tsx
-│   │   └── Window.tsx
-│   ├── pages
-│   │   └── NotFound.tsx
-│   ├── scripts
-│   ├── styles
-│   ├── App.tsx
-│   ├── index.css
-│   ├── main.tsx
-│   └── vite-env.d.ts
+├── .vercel/
+├── assets/
+├── dist/
+├── font/
+├── src/
 ├── .gitattributes
 ├── .gitignore
 ├── AGENTS.md
