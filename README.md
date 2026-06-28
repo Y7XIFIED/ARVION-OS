@@ -30,18 +30,25 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
    ```
 
 ## 📂 Project Structure
-```text
-arvion/
-├── .vercel/
-├── assets/
-├── dist/
-│   └── assets/
-├── font/
-│   └── termina-test/
-└── src/
-    ├── components/
-    └── pages/
-```
+
+- 📁 **.vercel/**
+- 📁 **assets/**
+- 📁 **dist/**
+- 📁 **font/**
+- 📁 **src/**
+- 📄 `.gitattributes`
+- 📄 `.gitignore`
+- 📄 `AGENTS.md`
+- 📄 `Arvion OS.mp4`
+- 📄 `arvion_manifest.json`
+- 📄 `ARVION.md`
+- 📄 `index.html`
+- 📄 `package-lock.json`
+- 📄 `package.json`
+- 📄 `postcss.config.js`
+- 📄 `README.md`
+- 📄 `tailwind.config.js`
+- 📄 `vite.config.ts`
 
 ## 💻 Tech Stack
 HTML5 & CSS3: Structural vectors and custom styling variables.
